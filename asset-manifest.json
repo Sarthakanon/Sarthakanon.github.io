@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio-hosted/static/css/main.e061a202.css",
+    "main.js": "/portfolio-hosted/static/js/main.f3f4ed89.js",
+    "static/js/453.ad7768ec.chunk.js": "/portfolio-hosted/static/js/453.ad7768ec.chunk.js",
+    "static/media/astronaut.png": "/portfolio-hosted/static/media/astronaut.375fef089751232fc5f7.png",
+    "static/media/cartoon-phone.png": "/portfolio-hosted/static/media/cartoon-phone.6ec68adf71fa18aa1512.png",
+    "index.html": "/portfolio-hosted/index.html",
+    "main.e061a202.css.map": "/portfolio-hosted/static/css/main.e061a202.css.map",
+    "main.f3f4ed89.js.map": "/portfolio-hosted/static/js/main.f3f4ed89.js.map",
+    "453.ad7768ec.chunk.js.map": "/portfolio-hosted/static/js/453.ad7768ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e061a202.css",
+    "static/js/main.f3f4ed89.js"
+  ]
+}
