@@ -1,17 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.e061a202.css",
-    "main.js": "/static/js/main.f1181e11.js",
+    "main.js": "/static/js/main.79097e07.js",
     "static/js/453.ad7768ec.chunk.js": "/static/js/453.ad7768ec.chunk.js",
     "static/media/astronaut.png": "/static/media/astronaut.375fef089751232fc5f7.png",
-    "static/media/cartoon-phone.png": "/static/media/cartoon-phone.6ec68adf71fa18aa1512.png",
     "index.html": "/index.html",
     "main.e061a202.css.map": "/static/css/main.e061a202.css.map",
-    "main.f1181e11.js.map": "/static/js/main.f1181e11.js.map",
+    "main.79097e07.js.map": "/static/js/main.79097e07.js.map",
     "453.ad7768ec.chunk.js.map": "/static/js/453.ad7768ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e061a202.css",
-    "static/js/main.f1181e11.js"
+    "static/js/main.79097e07.js"
   ]
 }
